@@ -20,7 +20,7 @@ const claimSet = {
     iss: "<REPLACE WITH YOUR ACC>",
     iat: now,
     exp: expireTime,
-    scope: "https://www.googleapis.com/auth/androidpublisher",
+    scope: "<SCOPE FROM GOOGLE PLAY DEVELOPER API> (E.g: https://www.googleapis.com/auth/androidpublisher)",
     aud: "https://oauth2.googleapis.com/token"
 }
 ```
