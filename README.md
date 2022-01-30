@@ -1,5 +1,11 @@
 # Code snippet to generate the JSON Web Token for the Google Play Developer API
 
+Codeible.com - [View on Codeible](https://codeible.com/view/videotutorial/EUVd83616z4AppnnKk4Y;title=Generating%20the%20JWT%20and%20Retrieving%20the%20OAuth%202.0%20Token)
+
+[View on YouTube](https://youtu.be/91PlQyrebbk)
+
+[Follow on Twitter](https://twitter.com/KingWaiMark)
+
 ##### Header
 ```
 const header = {
